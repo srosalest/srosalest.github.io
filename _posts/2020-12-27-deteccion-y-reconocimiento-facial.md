@@ -22,14 +22,14 @@ autor: Sebastián Rosales
 
 ## ¿Como realizamos la detección? 
 
-<div style="text-align: justify">Para efectuar la detección facial podemos utilizar la implementacion de OpenCV o la implementación de 
+<div style="text-align: justify" markdown="1">Para efectuar la detección facial podemos utilizar la implementacion de OpenCV o la implementación de 
 [IPAZC](https://github.com/ipazc/mtcnn).</div>
 <br/>
 
-<div style="text-align: justify">En el caso de OpenCV , la detección facial está implementando mediante el uso de [Haar](http://www.willberger.org/cascade-haar-explained/) cascades, en cambio, la implementación de [IPAZC](https://github.com/ipazc/mtcnn) usa como referencia la implementación de MTCNN FaceNet’s. Se encuentra basada en el paper Zhang, K et al. (2016) [ZHANG2016](https://ieeexplore.ieee.org/document/7553523). </div>
+<div style="text-align: justify" markdown="1">En el caso de OpenCV , la detección facial está implementando mediante el uso de [Haar](http://www.willberger.org/cascade-haar-explained/) cascades, en cambio, la implementación de [IPAZC](https://github.com/ipazc/mtcnn) usa como referencia la implementación de MTCNN FaceNet’s. Se encuentra basada en el paper Zhang, K et al. (2016) [ZHANG2016](https://ieeexplore.ieee.org/document/7553523). </div>
 <br/>
 
-<div style="text-align: justify">He decidido utilizar la implementación de [IPAZC](https://github.com/ipazc/mtcnn). </div>
+<div style="text-align: justify" markdown="1">He decidido utilizar la implementación de [IPAZC](https://github.com/ipazc/mtcnn). </div>
 <br/>
 
 
