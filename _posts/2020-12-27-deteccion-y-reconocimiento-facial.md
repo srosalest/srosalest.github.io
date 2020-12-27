@@ -44,8 +44,9 @@ autor: Sebastián Rosales
 
 </div>
 
+***
 
-
+### Pre-procesamos las imágenes:
 
 ```
 #pre-process the data
@@ -65,6 +66,8 @@ image_data = np.asarray(image);
 #check the shape of the array
 #image_data.shape
 ```
+
+### Inicializamos el detector y procesamos la imagen:
 ```
 # initialize the face detector
 face_detector = mtcnn.MTCNN()
