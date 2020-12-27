@@ -4,8 +4,18 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Sebastián Rosales Tejeda  
+Estudiante Ingeniería Civil Informática UTFSM, Santiago, Chile.
 </p>
+Computer science/software engineering student @UTFSM, SCL
+
+Looking forward to work as part of a team , learn more and improve my knowledge on software development/industry.
+
+My interests are primarilly algorithm analysis and design, deep learning (neural networks) and artificial intelligence applications focused on software development and its industry.
+
+Native Spanish speaker and also fluent English speaker.
+
+Rugby player (tighthead) @New Mexico Tech, NM USA, from December 2014 to March 2015. Active rugby player for UTFSM, SCL since 2014.
 
 In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
