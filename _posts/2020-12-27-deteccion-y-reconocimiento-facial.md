@@ -32,6 +32,19 @@ autor: Sebastián Rosales
 <div style="text-align: justify" markdown="1">He decidido utilizar la implementación de [IPAZC](https://github.com/ipazc/mtcnn).
 </div>
 
+<div style="text-align: justify" markdown="1"> ** Los pasos a seguir son los siguientes: **
+
+* Pre-procesar las imágenes, asegurarse que sean RGB y transfórmalas a un Array (utilizaremos Numpy Arrays). 
+
+* Inicializamos el detector de rostros [IPAZC](https://github.com/ipazc/mtcnn) y procesamos nuestra imagen.
+
+* Obtenemos el centro de la imagen a partir de los puntos reconocidos por el detector. 
+
+* Visualizamos el resultado obtenido. 
+
+</div>
+
+
 
 
 ```
