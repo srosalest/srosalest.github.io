@@ -21,7 +21,7 @@ Native Spanish speaker and also fluent English speaker.<br/>
 Rugby player (tighthead) @New Mexico Tech, NM USA, from December 2014 to March 2015. Active rugby player for UTFSM, SCL since 2014.<br/>
 
 <br/>
-The main porpouse of this blog is to serve as a showcase/portfolio and it will be written in Spanish aswell in English.<br/>
+The porpouse of this blog is to serve as a showcase/portfolio.(it will be written in Spanish aswell in English)<br/>
 </p>
 
 <p class="message" align=justify>
