@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <p align=center>
- ![profile](assets/profile.png){:height="25%" width="25%"}
+ [profile](assets/profile.png){:height="25%" width="25%"}
  </p>
 
 <p align=justify>
