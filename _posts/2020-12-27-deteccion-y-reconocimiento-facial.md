@@ -32,9 +32,7 @@ autor: Sebastián Rosales
 <div style="text-align: justify" markdown="1">He decidido utilizar la implementación de [IPAZC](https://github.com/ipazc/mtcnn).
 </div>
 
-<div style="text-align: justify" markdown="1"> 
-
-**Los pasos a seguir son los siguientes: **
+<div style="text-align: justify" markdown="1"> <strong>Los pasos a seguir son los siguientes: </strong>
 
 * Pre-procesar las imágenes, asegurarse que sean RGB y transfórmalas a un Array (utilizaremos Numpy Arrays). 
 
