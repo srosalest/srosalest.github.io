@@ -21,7 +21,8 @@ The main porpouse of this blog is to serve as a showcase/portfolio and it will b
 
 <p class="message" align=justify>
 Sebastián Rosales Tejeda <br/>
-Computer science/software engineering student @UTFSM, SCL
+Computer science/software engineering student @UTFSM, SCL<br/>
+sebastian.rosales.14@sansano.usm.cl
 </p>
 
 ## Contact & Social
