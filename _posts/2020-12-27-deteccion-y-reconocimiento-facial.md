@@ -38,7 +38,7 @@ autor: Sebastián Rosales
 
 * Inicializamos el detector de rostros [IPAZC](https://github.com/ipazc/mtcnn) y procesamos nuestra imagen.
 
-* Obtenemos el centro de la imagen a partir de los puntos reconocidos por el detector. 
+* Obtenemos el centro del rostro a partir de los puntos reconocidos por el detector. 
 
 * Visualizamos el resultado obtenido. 
 
@@ -80,4 +80,25 @@ at this point we have already detected the faces
 and get all the data from the mtcnn algorithm 
 (bounding box, main face points)
 """
+```
+
+### Obtenemos el centro del rostro
+```
+# get all data to get the center of the face and the confidence
+data_faces = np.array([[]])
+init_flag = True
+
+for each_item in detection:
+    #if true initialize array, else append it
+    x_mouth,y_mouth = ((each_item['keypoints']['mouth_right'][0] + each_item['keypoints']['mouth_left'][0])/2 , (each_item['keypoints']['mouth_right'][1] + each_item['keypoints']['mouth_left'][1])/2)
+    x_eye, y_eye = ((each_item['keypoints']['right_eye'][0] + each_item['keypoints']['left_eye'][0])/2,(each_item['keypoints']['right_eye'][1] + each_item['keypoints']['left_eye'][1])/2)
+    x_nose, y_nose = (each_item['keypoints']['nose'][0], each_item['keypoints']['nose'][1])
+    (x_center, y_center) = ((x_nose + x_mouth + x_eye)/3 , (y_nose + y_mouth + y_eye)/3)
+    confidence = each_item['confidence']
+    if init_flag:
+        #get a particular bounding box dimensions
+        data_faces = np.array([[(x_center, y_center) ,confidence]])
+        init_flag = False
+    else:
+        data_faces = np.vstack((data_faces,[(x_center, y_center),confidence]))
 ```
