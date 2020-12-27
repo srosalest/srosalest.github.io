@@ -59,5 +59,7 @@ face_detector = mtcnn.MTCNN()
 #detect the faces
 detection = face_detector.detect_faces(image_data)
 
-#at this point we have already detected the faces and get all the data from the mtcnn algorithm (bounding box, main face points)
+#at this point we have already detected the faces 
+and get all the data from the mtcnn algorithm 
+(bounding box, main face points)
 ```
