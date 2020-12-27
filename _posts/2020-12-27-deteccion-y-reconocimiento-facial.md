@@ -22,7 +22,7 @@ autor: Sebastián Rosales
 
 ## ¿Como realizamos la detección? 
 
-<p align=justify>
+
 Para efectuar la detección facial podemos utilizar la implementacion de OpenCV o la implementación de 
 [IPAZC] (https://github.com/ipazc/mtcnn).
 <br/>
@@ -38,4 +38,6 @@ La implementación de [IPAZC] (https://github.com/ipazc/mtcnn) usa como referenc
 <br/>
 He decidido utilizar la implementación de [IPAZC] (https://github.com/ipazc/mtcnn). 
 <br/>
-</p>
+
+
+
