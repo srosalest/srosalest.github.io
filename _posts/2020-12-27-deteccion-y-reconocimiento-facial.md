@@ -34,3 +34,30 @@ autor: Sebastián Rosales
 
 
 
+```
+#pre-process the data
+
+#load image.
+image = Image.open("/content/prueba-2.jpeg")
+black_image = np.zeros([image.size[1],image.size[0],3])
+black_image.fill(0)
+
+#if image isn't RGB transform it.
+if(image.getbands() != ('R','G','B')):
+    image = image.convert('RGB')
+
+#get data array from the image.
+image_data = np.asarray(image);
+
+#check the shape of the array
+#image_data.shape
+```
+```
+# initialize the face detector
+face_detector = mtcnn.MTCNN()
+
+#detect the faces
+detection = face_detector.detect_faces(image_data)
+
+#at this point we have already detected the faces and get all the data from the mtcnn algorithm (bounding box, main face points)
+```
