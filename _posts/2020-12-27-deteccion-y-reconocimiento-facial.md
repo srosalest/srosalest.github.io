@@ -36,9 +36,9 @@ La implementación de [IPAZC] (https://github.com/ipazc/mtcnn) usa como referenc
 <br/>
 
 <br/>
-He decidido utilizar la implementación de [IPAZC] (https://github.com/ipazc/mtcnn). 
+He decidido utilizar la implementación de [IPAZC](https://github.com/ipazc/mtcnn). 
 
-[IPAZC] (https://github.com/ipazc/mtcnn). 
+[IPAZC](https://github.com/ipazc/mtcnn). 
 <br/>
 
 
