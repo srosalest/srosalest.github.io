@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
- ![alt text](assets/profile.png)
+ ![alt text](assets/profile.png =100)
 
 <p align=justify>
 Hello there ;). I am Sebastián, a Computer science/software engineering student looking forward to work as part of a team, learn more and improve my knowledge on software development/industry.<br/>
@@ -30,7 +30,7 @@ sebastian.rosales.14@sansano.usm.cl
 
 Some fun facts about the setup of this project include:
 
-- [Github](https://jekyllrb.com)
-- [LinkedIn](https://pages.github.com)
+- [Github](https://github.com/srosalest)
+- [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-rosales-tejeda/)
 
 Have questions or suggestions? Feel free to send me an [Email](mailto:sebastian.rosales.14@sansano.usm.cl)
