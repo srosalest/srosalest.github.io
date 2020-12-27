@@ -31,6 +31,6 @@ Some fun facts about the setup of this project include:
 - [Github](https://jekyllrb.com)
 - [LinkedIn](https://pages.github.com)
 
-Have questions or suggestions? Feel free to send me an[Email] (sebastian.rosales.14@sansano.usm.cl)
+Have questions or suggestions? Feel free to send me an [Email](sebastian.rosales.14@sansano.usm.cl)
 
 Thanks for reading!
