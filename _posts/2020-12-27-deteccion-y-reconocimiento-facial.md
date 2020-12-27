@@ -28,11 +28,7 @@ Para efectuar la detección facial podemos utilizar la implementacion de OpenCV 
 <br/>
 
 <br/>
-En el caso de OpenCV , la detección facial está implementando mediante el uso de [haar](http://www.willberger.org/cascade-haar-explained/)cascades.
-<br/>
-
-<br/>
-La implementación de [IPAZC](https://github.com/ipazc/mtcnn) usa como referencia la implementación de MTCNN FaceNet’s. Se encuentra basada en el paper Zhang, K et al. (2016) [ZHANG2016](https://ieeexplore.ieee.org/document/7553523)
+En el caso de OpenCV , la detección facial está implementando mediante el uso de [Haar](http://www.willberger.org/cascade-haar-explained/) cascades. La implementación de [IPAZC](https://github.com/ipazc/mtcnn) usa como referencia la implementación de MTCNN FaceNet’s. Se encuentra basada en el paper Zhang, K et al. (2016) [ZHANG2016](https://ieeexplore.ieee.org/document/7553523)
 <br/>
 
 <br/>
