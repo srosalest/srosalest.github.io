@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Detección y reconocimiento facial [1/3]
+autor:
 ---
 
 <p align=justify>
@@ -20,13 +21,17 @@ title: Detección y reconocimiento facial [1/3]
 ***
 
 ## ¿Como realizamos la detección? 
-<br/>
+
 <p align=justify>
-Para efectuar la detección facial podemos utilizar la implementacion de OpenCV o la implementación de [IPAZC](https://github.com/ipazc/mtcnn)  
+Para efectuar la detección facial podemos utilizar la implementacion de OpenCV o la implementación de [IPAZC](https://github.com/ipazc/mtcnn).
+<br/>
 
-En el caso de OpenCV , la detección facial está implementando mediante el uso de [Haar cascades](http://www.willberger.org/cascade-haar-explained/) 
+En el caso de OpenCV , la detección facial está implementando mediante el uso de [Haar cascades](http://www.willberger.org/cascade-haar-explained/).
+<br/>
 
-La implementación de [IPAZC](https://github.com/ipazc/mtcnn) usa como referencia la implementación de MTCNN FaceNet’s. Se encuentra basada en el paper Zhang, K et al. (2016) [ZHANG2016](https://ieeexplore.ieee.org/document/7553523) 
+La implementación de [IPAZC](https://github.com/ipazc/mtcnn) usa como referencia la implementación de MTCNN FaceNet’s. Se encuentra basada en el paper Zhang, K et al. (2016) [ZHANG2016](https://ieeexplore.ieee.org/document/7553523)
+<br/>
 
 He decidido utilizar la implementación de [IPAZC](https://github.com/ipazc/mtcnn). 
+<br/>
 </p>
