@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Detección y reconocimiento facial [1/3]
-autor:
+autor: Sebastián Rosales
 ---
 
 <p align=justify>
