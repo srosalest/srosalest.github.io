@@ -6,14 +6,17 @@ title: About
 <p align=justify>
 Looking forward to work as part of a team, learn more and improve my knowledge on software development/industry.<br/>
 
+<br/>
 My interests are primarilly algorithm analysis and design, deep learning (neural networks) and artificial intelligence applications focused on software development and its industry.<br/>
 
+<br/>
 Native Spanish speaker and also fluent English speaker.<br/>
 
+<br/>
 Rugby player (tighthead) @New Mexico Tech, NM USA, from December 2014 to March 2015. Active rugby player for UTFSM, SCL since 2014.<br/>
 </p>
 
-<p class="message">
+<p class="message" align=justify>
 Sebastián Rosales Tejeda <br/>
 Computer science/software engineering student @UTFSM, SCL
 </p>
