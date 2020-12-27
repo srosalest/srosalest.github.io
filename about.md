@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-Sebastián Rosales Tejeda  
+Sebastián Rosales Tejeda <br/>
 Estudiante Ingeniería Civil Informática UTFSM, Santiago, Chile.
 </p>
 Computer science/software engineering student @UTFSM, SCL
