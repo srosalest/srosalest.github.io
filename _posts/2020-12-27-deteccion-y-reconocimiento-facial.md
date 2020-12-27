@@ -17,5 +17,6 @@ title: Detección y reconocimiento facial [1/3]
 * **Detección y reconocimiento facial [2/3]:** Implementación de una red neuronal de reconocimiento facial, utilizando redes pre-entrenadas y autoencoders.<br/>
 <br/>
 * **Detección y reconocimiento facial [3/3]:**  Aplicación biométrica y como reconocer *“sentimientos”*.<br/>
+
 ***
 
