@@ -16,7 +16,7 @@ Native Spanish speaker and also fluent English speaker.<br/>
 Rugby player (tighthead) @New Mexico Tech, NM USA, from December 2014 to March 2015. Active rugby player for UTFSM, SCL since 2014.<br/>
 
 <br/>
-The main porpouse of this blog is to serve as a showcase/portfolio and it will be written in spanish aswell in english.<br/>
+The main porpouse of this blog is to serve as a showcase/portfolio and it will be written in Spanish aswell in English.<br/>
 </p>
 
 <p class="message" align=justify>
@@ -31,6 +31,6 @@ Some fun facts about the setup of this project include:
 - [Github](https://jekyllrb.com)
 - [LinkedIn](https://pages.github.com)
 
-Have questions or suggestions? Feel free to send me an[Email] [sebastian.rosales.14@sansano.usm.cl]
+Have questions or suggestions? Feel free to send me an[Email] (sebastian.rosales.14@sansano.usm.cl)
 
 Thanks for reading!
