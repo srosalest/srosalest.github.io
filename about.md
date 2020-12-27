@@ -4,7 +4,10 @@ title: About
 ---
 
 <p align=justify>
-Looking forward to work as part of a team, learn more and improve my knowledge on software development/industry.<br/>
+Hello there ;) <br/>
+
+<br/>
+I am Sebastián, a Computer science/software engineering student looking forward to work as part of a team, learn more and improve my knowledge on software development/industry.<br/>
 
 <br/>
 My interests are primarilly algorithm analysis and design, deep learning (neural networks) and artificial intelligence applications focused on software development and its industry.<br/>
