@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: srosalest-dev
+url: https://srosalest.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Sebastian Rosales
+  url: https://srosalest.github.io
+  email: sebastian.rosales.14@sansano.usm.cl
 
 # Custom vars
 version: 3.0.0
