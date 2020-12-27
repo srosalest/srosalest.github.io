@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-
+![Profile picture](assets/profile.png)
 <p align=justify>
 Hello there ;). I am Sebastián, a Computer science/software engineering student looking forward to work as part of a team, learn more and improve my knowledge on software development/industry.<br/>
 
