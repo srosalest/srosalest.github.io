@@ -5,11 +5,10 @@ title: About
 
 <p class="message">
 Sebastián Rosales Tejeda <br/>
-Estudiante Ingeniería Civil Informática UTFSM, Santiago, Chile. <br/>
 Computer science/software engineering student @UTFSM, SCL
 </p>
 
-<p align=center>
+<p align=justify>
 Looking forward to work as part of a team , learn more and improve my knowledge on software development/industry.
 
 My interests are primarilly algorithm analysis and design, deep learning (neural networks) and artificial intelligence applications focused on software development and its industry.
