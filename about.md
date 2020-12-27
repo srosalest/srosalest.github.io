@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
- <img src="/assets/profile.png" alt="Profile" class="center"> 
+ <img src="{{ '/assets/profile.png' | relative_url }}" alt="Profile" class="center"> 
 
 <p align=justify>
 Hello there ;). I am Sebastián, a Computer science/software engineering student looking forward to work as part of a team, learn more and improve my knowledge on software development/industry.<br/>
