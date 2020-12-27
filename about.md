@@ -4,13 +4,13 @@ title: About
 ---
 
 <p align=justify>
-Looking forward to work as part of a team, learn more and improve my knowledge on software development/industry.
+Looking forward to work as part of a team, learn more and improve my knowledge on software development/industry.<br/>
 
-My interests are primarilly algorithm analysis and design, deep learning (neural networks) and artificial intelligence applications focused on software development and its industry.
+My interests are primarilly algorithm analysis and design, deep learning (neural networks) and artificial intelligence applications focused on software development and its industry.<br/>
 
-Native Spanish speaker and also fluent English speaker.
+Native Spanish speaker and also fluent English speaker.<br/>
 
-Rugby player (tighthead) @New Mexico Tech, NM USA, from December 2014 to March 2015. Active rugby player for UTFSM, SCL since 2014.
+Rugby player (tighthead) @New Mexico Tech, NM USA, from December 2014 to March 2015. Active rugby player for UTFSM, SCL since 2014.<br/>
 </p>
 
 <p class="message">
