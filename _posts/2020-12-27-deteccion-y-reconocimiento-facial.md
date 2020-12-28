@@ -119,15 +119,14 @@ for each_item in detection:
 <div style="text-align: justify" markdown="1"><i>En la imagen superior izquierda se pueden apreciar los rostros detectados encerrados por un bounding box. En la inferior izquierda se aprecian los centros de cada rostro y la intensidad asociada a la confianza de la predicción. En la imagen superior derecha se puede apreciar la ubicación de los bounding box y finalmente la imagen original en la parte inferior izquierda.</i>
 </div>
 
+<p class="message" align=justify markdown="1"><strong>Próxima entrega:<strong>  **Detección y reconocimiento facial [2/3]:** Implementación de una red neuronal de reconocimiento facial, utilizando redes pre-entrenadas y autoencoders. 
+</p>
+
 ## Conclusión: 
 <div style="text-align: justify" markdown="1">No es difícil implementar un detector facial utilizando las herramientas mencionadas anteriormente. Sin embargo, queda pendiente implementar un algoritmo detector que sea adecuado a nuestras necesidades. 
 
 Gracias a esta implementación seremos capaces de extraer los rostros de las imágenes y a posteriori realizar una extracción de características que nos permitan reconocer los rostros en la próxima entrega.
 </div>
-<p class="message" align=justify markdown="1">
-## Próxima entrega:  **Detección y reconocimiento facial [2/3]:** Implementación de una red neuronal de reconocimiento facial, utilizando redes pre-entrenadas y autoencoders. 
-</p>
-
 
 ***
 <p class="message" align=justify markdown="1">
