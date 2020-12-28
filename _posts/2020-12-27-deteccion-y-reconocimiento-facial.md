@@ -46,7 +46,7 @@ autor: Sebastián Rosales
 
 ***
 <p class="message" align=justify markdown="1">
- El código completo se encuentra en el siguiente repositorio de github [FaceDetection-srosalest-dev](https://github.com/srosalest/FaceDetection-Recognition-srosalest-dev/blob/main/FaceDetection.ipynb), disponible en formato de Python notebook.
+ El código completo se encuentra en el siguiente repositorio de github [<span style="color:blue">FaceDetection-srosalest-dev</span>](https://github.com/srosalest/FaceDetection-Recognition-srosalest-dev/blob/main/FaceDetection.ipynb), disponible en formato de Python notebook.
 </p>
 ***
 
