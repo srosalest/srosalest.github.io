@@ -87,7 +87,7 @@ and get all the data from the mtcnn algorithm
 ```
 
 ### Obtenemos el centro del rostro
-```
+```{python, attr.source='.numberLines'}
 # get all data to get the center of the face and the confidence
 data_faces = np.array([[]])
 init_flag = True
