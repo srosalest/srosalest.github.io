@@ -119,7 +119,7 @@ for each_item in detection:
 <div style="text-align: justify" markdown="1"><i>En la imagen superior izquierda se pueden apreciar los rostros detectados encerrados por un bounding box. En la inferior izquierda se aprecian los centros de cada rostro y la intensidad asociada a la confianza de la predicción. En la imagen superior derecha se puede apreciar la ubicación de los bounding box y finalmente la imagen original en la parte inferior izquierda.</i>
 </div>
 
-<p class="message" align=justify markdown="1"><strong>Próxima entrega:<strong>  **Detección y reconocimiento facial [2/3]:** Implementación de una red neuronal de reconocimiento facial, utilizando redes pre-entrenadas y autoencoders. 
+<p class="message" align=justify markdown="1"><strong><i>Próxima entrega:</i></strong>  **Detección y reconocimiento facial [2/3]:** Implementación de una red neuronal de reconocimiento facial, utilizando redes pre-entrenadas y autoencoders. 
 </p>
 
 ## Conclusión: 
