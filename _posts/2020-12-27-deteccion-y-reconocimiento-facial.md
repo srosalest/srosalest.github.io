@@ -113,6 +113,6 @@ for each_item in detection:
 
 ***
 <p class="message" align=justify markdown="1">
-**_IMPORTANTE: _** La imagen utiliza es de propiedad de [<span style="color:blue">cronista.com</span>](https://www.cronista.com/internacionales/Chile-el-Congreso-evaluara-la-reforma-a-la-Constitucion-20191103-0013.html) y su uso fue exclusivamente informativo, no se procesó información biométrica a partir de ella.
+**_IMPORTANTE:_** La imagen utiliza es de propiedad de [<span style="color:blue">cronista.com</span>](https://www.cronista.com/internacionales/Chile-el-Congreso-evaluara-la-reforma-a-la-Constitucion-20191103-0013.html) y su uso fue exclusivamente informativo, no se procesó información biométrica a partir de ella.
 </p>
 
