@@ -130,6 +130,6 @@ Gracias a esta implementación seremos capaces de extraer los rostros de las im�
 
 ***
 <p class="message" align=justify markdown="1">
-**_IMPORTANTE:_** La imagen utilizada es de propiedad de [<span style="color:blue">cronista.com</span>](https://www.cronista.com/internacionales/Chile-el-Congreso-evaluara-la-reforma-a-la-Constitucion-20191103-0013.html) y su uso fue exclusivamente informativo, no se procesó información biométrica a partir de ella.
+**_IMPORTANTE:_** La imagen utilizada es de propiedad de [<span style="color:blue">cronista.com</span>](https://www.cronista.com/internacionales/Chile-el-Congreso-evaluara-la-reforma-a-la-Constitucion-20191103-0013.html) y su uso fue exclusivamente informativo/educacional, no se procesó información biométrica a partir de ella.
 </p>
 
