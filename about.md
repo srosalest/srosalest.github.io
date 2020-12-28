@@ -27,7 +27,7 @@ The porpouse of this blog is to serve as a showcase/portfolio.(it will be writte
 <p class="message" align=justify>
 Sebastián Rosales Tejeda <br/>
 Computer science/software engineering student @UTFSM, SCL<br/>
-sebastian DOT rosales DOT 14@sansano DOT usm DOT cl
+sebastian dot rosales dot 14 at sansano dot usm dot cl
 </p>
 
 ## Contact & Social
@@ -37,4 +37,4 @@ Some fun facts about the setup of this project include:
 - [Github](https://github.com/srosalest)
 - [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-rosales-tejeda/)
 
-Have questions or suggestions? Feel free to send me an Email < <em>sebastian DOT rosales DOT 14@sansano DOT usm DOT cl</em> >
+Have questions or suggestions? Feel free to send me an Email < <em>sebastian dot rosales dot 14 at sansano dot usm dot cl</em> >
