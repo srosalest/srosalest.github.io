@@ -109,6 +109,12 @@ for each_item in detection:
 
 ## Resultados obtenidos:
 
+<div style="text-align: justify" markdown="1">Los resultados obtenidos se pueden apreciar en la siguiente imagen: 
+</div>
+
+<div style="text-align: justify" markdown="1">En la imagen superior izquierda se pueden apreciar los rostros detectados encerrados por un bounding box. En la inferior izquierda se aprecian los centros de cada rostro y la intensidad asociada a la confianza de la predicción. En la imagen superior derecha se puede apreciar la ubicación de los bounding box y finalmente la imagen original en la parte inferior izquierda. 
+</div>
+
 
 
 ***
