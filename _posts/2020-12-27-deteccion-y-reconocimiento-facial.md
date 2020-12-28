@@ -52,7 +52,7 @@ autor: Sebastián Rosales
 
 ### Pre-procesamos las imágenes:
 
-```
+```python
 #pre-process the data
 
 #load image.
@@ -72,7 +72,8 @@ image_data = np.asarray(image);
 ```
 
 ### Inicializamos el detector y procesamos la imagen:
-```
+
+```python
 # initialize the face detector
 face_detector = mtcnn.MTCNN()
 
@@ -87,7 +88,7 @@ and get all the data from the mtcnn algorithm
 ```
 
 ### Obtenemos el centro del rostro
-```
+```python
 # get all data to get the center of the face and the confidence
 data_faces = np.array([[]])
 init_flag = True
