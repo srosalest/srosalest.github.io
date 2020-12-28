@@ -37,4 +37,4 @@ Some fun facts about the setup of this project include:
 - [Github](https://github.com/srosalest)
 - [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-rosales-tejeda/)
 
-Have questions or suggestions? Feel free to send me an Email <<i>sebastian DOT rosales DOT 14@sansano DOT usm DOT cl</i>>
+Have questions or suggestions? Feel free to send me an Email < <em>sebastian DOT rosales DOT 14@sansano DOT usm DOT cl</em> >
