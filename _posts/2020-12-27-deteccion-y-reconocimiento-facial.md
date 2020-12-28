@@ -102,3 +102,11 @@ for each_item in detection:
     else:
         data_faces = np.vstack((data_faces,[(x_center, y_center),confidence]))
 ```
+
+## Resultados obtenidos:
+
+
+
+***
+
+** _IMPORTANTE_ ** La imagen utiliza es de propiedad de kradiario.cl https://kradiario.cl/2019/11/08/un-centenar-de-medicos-voluntarios-atienden-pacientes-en-marchas-y-protestas-en-chile/ y su uso fue exclusivamente informativo, no se procesó información biométrica a partir de ella. 
